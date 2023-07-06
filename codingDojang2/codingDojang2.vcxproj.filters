@@ -111,5 +111,41 @@
     <ClCompile Include="judge_oldest.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="union.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="union_endian.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="union_alloc_memory.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_union.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_union_alloc_memory.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_variable_in_struct.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_variable_in_struct_alloc_memory.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_pointer_in_struct_alloc_memory.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="anonymous_struct_union.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_declare_struct_champion.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_alloc_memory_struct_champion.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_define_struct_device_option.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
