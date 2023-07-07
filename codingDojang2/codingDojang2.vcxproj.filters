@@ -147,5 +147,38 @@
     <ClCompile Include="judge_define_struct_device_option.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="struct_bit_field.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_bit_field_sizeof.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_union_bit_field.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_struct_bit_field.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_struct_union_bit_field.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="enum.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="enum_switch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="enum_for.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_enum.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_enum_switch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_enum_for.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
