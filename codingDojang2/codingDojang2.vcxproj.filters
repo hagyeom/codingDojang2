@@ -180,5 +180,74 @@
     <ClCompile Include="judge_enum_for.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="type_conversion_variable.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="type_conversion_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="type_conversion_pointer_invalid_value.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="type_conversion_pointer_dereference.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="type_coversion_void_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="type_conversion_struct_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_type_coversion_variable.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_type_coversion_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_type_coversion_void_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_type_coversion_struct_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_add.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_sub.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_increment_decrement.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_dereference.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_add_dereference.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_inc_dec_dereference.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="void_pointer_add_error.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="void_pointer_arithmetic_dereference.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_pointer_add.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_void_pointer_add.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_pointer_add.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_pointer_add_dereference.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_struct_pointer_add.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
