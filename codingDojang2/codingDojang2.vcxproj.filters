@@ -294,5 +294,50 @@
     <ClCompile Include="judge_return_struct_pointer.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="function_parameter.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="add_function.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_function_parameter.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_add_function.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_alloc_function.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="parameter.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="parameter_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="parameter_void_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="parameter_double_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="parameter_char_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="parameter_char_array_argument.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="parameter_char_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_parameter_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_parameter_double_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_parameter_string.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
