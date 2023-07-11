@@ -339,5 +339,29 @@
     <ClCompile Include="judge_parameter_string.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="parameter_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="parameter_array_set_element.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="parameterPointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="parameter_array_swap_element.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="parameter_two_dimensional_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="parameter_two_dimensional_pointer_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_parameter_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_transpose_of_matrix.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

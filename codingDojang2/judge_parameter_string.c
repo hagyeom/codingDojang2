@@ -4,6 +4,7 @@
 void printFullName(char s1[],char s2[]) {
     printf("%s%s", s1,s2);
 }
+
 int main()
 {
     char familyName[31];
