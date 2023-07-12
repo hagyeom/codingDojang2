@@ -2,26 +2,32 @@
 #include <stdio.h>
 #include <stdarg.h>
 
-int getSum(const char* format, ...)
+int getSum(char* types, ...)
 {
-    int sum = 0;
-    va_list args;
-    va_start(args, format);
+    va_list ap;
+    int i = 0;
+    int result = 0;
 
-    while (*format != '\0')
+    va_start(ap,types);
+    while (types[i] != '\0')
     {
-        if (*format == 'i')
+        switch (types[i])
         {
-            int num = va_arg(args, int);
-            sum += num;
+        case 'i':
+            result += va_arg(ap,int);
+            break;
+        case 'd':
+            va_arg(ap, double);
+            break;
+        case 's':
+            va_arg(ap, char*);
+            break;
         }
-
-        format++;
+        i++;
     }
+    va_end(ap);
 
-    va_end(args);
-
-    return sum;
+    return result;
 }
 
 int main()
