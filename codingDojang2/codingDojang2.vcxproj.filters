@@ -378,5 +378,20 @@
     <ClCompile Include="judge_move_point2D.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="variable_argument.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="variable_argument_print_numbers.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="variable_argument_multiple_types.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_variable_argument.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_variable_argument_multiple_types.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
