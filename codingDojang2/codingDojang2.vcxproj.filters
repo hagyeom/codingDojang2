@@ -393,5 +393,26 @@
     <ClCompile Include="judge_variable_argument_multiple_types.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="recursive_function_exit_condition.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="factorial.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_fibonacci_number.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_recursive_function_sum_of_1_to_n.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="function_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="function_pointer_return_parameter_type.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_function_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
