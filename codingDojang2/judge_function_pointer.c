@@ -29,7 +29,7 @@ int main()
 
     scanf("%s %d %d", funcName, &num1, &num2);
 
-    int (*fp)(int*, int*);  // 함수 포인터 선언
+    int (*fp)(int*, int*);  
 
     if (strcmp(funcName, "add") == 0) {
         fp = add;
