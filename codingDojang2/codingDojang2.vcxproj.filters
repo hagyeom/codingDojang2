@@ -453,5 +453,17 @@
     <ClCompile Include="judge_quick_sort.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="linked_list_two_nodes.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="linked_list_add_first.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="linked_list_remove_first.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_linked_list_remove_node.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
